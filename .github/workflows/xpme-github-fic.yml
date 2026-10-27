@@ -1,4 +1,4 @@
-name: GitHub FIC Test
+name: xpme GitHub FIC Test
 on:
   workflow_dispatch:
 permissions:
